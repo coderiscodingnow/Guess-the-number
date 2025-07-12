@@ -6,3 +6,5 @@ How it works
 - The player tries to guess it.
 - The game gives hints: too high / too low.
 - A reset button lets you play again.
+
+LIVE DEMO: https://coderiscodingnow.github.io/Guess-the-number/
